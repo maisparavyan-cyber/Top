@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63633c0a.css",
+    "main.js": "/static/js/main.18eb9276.js",
+    "static/media/zoloto.jpg": "/static/media/zoloto.ef0c56d5e3b74e731f4d.jpg",
+    "index.html": "/index.html",
+    "main.63633c0a.css.map": "/static/css/main.63633c0a.css.map",
+    "main.18eb9276.js.map": "/static/js/main.18eb9276.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63633c0a.css",
+    "static/js/main.18eb9276.js"
+  ]
+}
